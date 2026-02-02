@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36908.2
@@ -22,11 +22,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBrowser.Model", "C:\Users\jkyn\OneDrive\E-mailové přílohy\Dokumenty\jellyfin\MediaBrowser.Model\MediaBrowser.Model.csproj", "{7EEEB4BB-F3E8-48FC-B4C5-70F0FFF8329B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jellyfin.Extensions", "C:\Users\jkyn\OneDrive\E-mailové přílohy\Dokumenty\jellyfin\src\Jellyfin.Extensions\Jellyfin.Extensions.csproj", "{6369B065-57A6-D4D4-462A-C99564101AAA}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
-	ProjectSection(SolutionItems) = preProject
-		.editorconfig = .editorconfig
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -82,3 +77,4 @@ Global
 		SolutionGuid = {293D5AF7-9745-489C-82EC-E6413C46DE66}
 	EndGlobalSection
 EndGlobal
+
